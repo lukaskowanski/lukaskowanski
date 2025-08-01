@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**## 👋 Hi, I'm Lukas Kowanski!
+## 👋 Hi, I'm Lukas Kowanski!
 
 I'm a Full Stack Software Developer passionate about Web Development and Learning new Coding Languages. 
 
